@@ -1,0 +1,18 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "192.168.39.152",
+  "port": "6060",
+  "target": "C:\\Users\\nicol\\Documents\\Programacion\\Atom",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "password": "diegoeslaley",
+  "watch": [],
+  "transport": "scp"
+}
